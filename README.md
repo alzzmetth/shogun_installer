@@ -1,7 +1,5 @@
-Markdown
-Salin kode
 # SHOGUN  
-## Secure Binary Distribution & Package Management System
+## Package Management System
 
 Shogun adalah lightweight, cross-platform binary package installer yang dirancang untuk mendistribusikan, memverifikasi, dan mengelola perangkat lunak berbasis repository terstruktur dengan kontrol integritas tingkat tinggi.
 
